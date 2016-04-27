@@ -19,7 +19,7 @@ app.get('/', function(req, res){
 //state is the 2 letter state code (e.g. ca)
 //zip is the 5 digit zip code (e.g. 94305)
 app.get('/scrape/:city/:state/:zip', function(req, res){  
-  res.sendFile(path.join(__dirname+'/scrape.html'));
+  // res.sendFile(path.join(__dirname+'/scrape.html'));
   city = req.params.city;
   state = req.params.state;
   zip = req.params.zip;
@@ -82,6 +82,7 @@ app.get('/scrape/:city/:state/:zip', function(req, res){
       fs.writeFile('output.json', JSON.stringify(json, null, 4), function(err){
         console.log('File successfully written! - Check your project directory for the output.json file');
       })
+      res.json(json);
 
     }
   })
