@@ -1,0 +1,6 @@
+{
+  "name": "Gas Price API",
+  "description": "Gets cheap nearby gas stations and their prices",
+  "repository": "",
+  "keywords": ["node", "express", "mapquest"],
+}

@@ -1,0 +1,104 @@
+{
+    "stations": [
+        {
+            "name": "ARCO",
+            "price": "\n$2.12\n",
+            "address": "11600 124TH AVE NE KIRKLAND, WA 98034"
+        },
+        {
+            "name": "Fred Meyer",
+            "price": "\n$2.16\n",
+            "address": "12221 120th Ave NE Kirkland, WA 98034"
+        },
+        {
+            "name": "Arco AMPM",
+            "price": "\n$2.20\n",
+            "address": "13055 NE 70th Pl Kirkland, WA 98033"
+        },
+        {
+            "name": "ARCO",
+            "price": "\n$2.22\n",
+            "address": "9015 WILLOWS RD NE REDMOND, WA 98052"
+        },
+        {
+            "name": "Rose Hill Car Wash",
+            "price": "\n$2.31\n",
+            "address": "12633 NE 85th St Kirkland, WA 98033"
+        },
+        {
+            "name": "ASAP Kirkland Locksmith",
+            "price": "\n$2.34\n",
+            "address": "11848 NE 85th St Kirkland, WA 98033"
+        },
+        {
+            "name": "UNION 76",
+            "price": "\n$2.35\n",
+            "address": "2421 148TH AVE NE BELLEVUE, WA 98007"
+        },
+        {
+            "name": "Texaco",
+            "price": "\n$2.35\n",
+            "address": "15248 Bel Red Rd Redmond, WA 98052"
+        },
+        {
+            "name": "Chevron",
+            "price": "\n$2.36\n",
+            "address": "16010 Redmond Way Redmond, WA 98052"
+        },
+        {
+            "name": "7-Eleven",
+            "price": "\n$2.36\n",
+            "address": "5040 148th Ave NE Redmond, WA 98052"
+        },
+        {
+            "name": "Brown Bear Car Wash",
+            "price": "\n$2.36\n",
+            "address": "17809 Redmond Way Redmond, WA 98052"
+        },
+        {
+            "name": "Flamingo Car Wash",
+            "price": "\n$2.36\n",
+            "address": "12520 NE 85th St Kirkland, WA 98033"
+        },
+        {
+            "name": "Chevron Extra Mile Market",
+            "price": "\n$2.36\n",
+            "address": "12607 NE 85th St Kirkland, WA 98033"
+        },
+        {
+            "name": "Jackson's",
+            "price": "\n$2.40\n",
+            "address": "11520 Avondale Rd NE Redmond, WA 98052"
+        },
+        {
+            "name": "JACKSONS FOOD STORE #621",
+            "price": "\n$2.40\n",
+            "address": "10801 NE 68TH ST KIRKLAND, WA 98033"
+        },
+        {
+            "name": "Shell Oil Products",
+            "price": "\n$2.40\n",
+            "address": "12221 NE 124th St Kirkland, WA 98034"
+        },
+        {
+            "name": "Union 76/Price Brothers",
+            "price": "\n$2.46\n",
+            "address": "12235 NE 116th St Kirkland, WA 98034"
+        },
+        {
+            "name": "UNION 76",
+            "price": "\n$2.56\n",
+            "address": "16909 REDMOND WAY REDMOND, WA 98052"
+        },
+        {
+            "name": "CHEVRON",
+            "price": "\n$2.60\n",
+            "address": "2444 BEL RED RD BELLEVUE, WA 98007"
+        },
+        {
+            "name": "SAMMAMISH POINT SHELL",
+            "price": "\n$2.97\n",
+            "address": "18065 REDMOND WAY REDMOND, WA 98052"
+        }
+    ]
+}
