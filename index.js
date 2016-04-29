@@ -18,7 +18,7 @@ app.get('/', function(req, res){
 //if city is two words, separate with a + (e.g. palo+alto)
 //state is the 2 letter state code (e.g. ca)
 //zip is the 5 digit zip code (e.g. 94305)
-app.get('/scrape/:city/:state/:zip', function(req, res){  
+app.get('/stations/:city/:state/:zip', function(req, res){  
   // res.sendFile(path.join(__dirname+'/scrape.html'));
   city = req.params.city;
   state = req.params.state;
