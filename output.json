@@ -1,104 +1,104 @@
 {
     "stations": [
         {
-            "name": "Valero Service Station",
-            "price": "\n$2.60\n",
-            "address": "705 San Antonio Rd Palo Alto, CA 94303"
+            "name": "SPEEDWAY #3482",
+            "price": "$2.04",
+            "address": "590 LUIS MUNOZ MARIN BLVD JERSEY CITY, NJ 07310"
         },
         {
-            "name": "VALERO 7542",
-            "price": "\n$2.76\n",
-            "address": "584 N RENGSTORFF AVE MOUNTAIN VIEW, CA 94043"
+            "name": "TUNNEL FIVE",
+            "price": "$2.10",
+            "address": "197 12TH ST JERSEY CITY, NJ 07310"
         },
         {
-            "name": "Valero",
-            "price": "\n$2.76\n",
-            "address": "334 San Antonio Rd Mountain View, CA 94040"
+            "name": "LEDGEWOOD PETRO",
+            "price": "$2.10",
+            "address": "183 12TH ST JERSEY CITY, NJ 07310"
         },
         {
-            "name": "MENLO PARK GAS",
-            "price": "\n$2.86\n",
-            "address": "275 EL CAMINO REAL MENLO PARK, CA 94025"
+            "name": "LUKOIL",
+            "price": "$2.12",
+            "address": "200 12TH ST JERSEY CITY, NJ 07310"
         },
         {
-            "name": "UNION 76",
-            "price": "\n$2.86\n",
-            "address": "4350 EL CAMINO REAL LOS ALTOS, CA 94022"
+            "name": "BP",
+            "price": "$2.13",
+            "address": "235 12TH ST JERSEY CITY, NJ 07310"
         },
         {
-            "name": "SHELL",
-            "price": "\n$2.86\n",
-            "address": "1288 W EL CAMINO REAL MOUNTAIN VIEW, CA 94040"
+            "name": "VALERO",
+            "price": "$2.18",
+            "address": "193 14TH ST JERSEY CITY, NJ 07310"
         },
         {
-            "name": "SHELL",
-            "price": "\n$2.86\n",
-            "address": "110 N RENGSTORFF AVE MOUNTAIN VIEW, CA 94043"
+            "name": "SUNOCO",
+            "price": "$2.20",
+            "address": "14TH ST JERSEY CITY, NJ 07399"
         },
         {
-            "name": "76",
-            "price": "\n$2.86\n",
-            "address": "330 S SAN ANTONIO RD LOS ALTOS, CA 94022"
+            "name": "HOLLAND TUNNEL SERVICE CENTER",
+            "price": "$2.30",
+            "address": "597 LUIS MUNOZ MARIN BLVD JERSEY CITY, NJ 07310"
         },
         {
-            "name": "76",
-            "price": "\n$2.90\n",
-            "address": "835 San Antonio Rd Palo Alto, CA 94303"
+            "name": "HEWES SALE AND SERVICE",
+            "price": "$2.30",
+            "address": "677 KENT AVE BROOKLYN, NY 11249"
         },
         {
-            "name": "G AND J SHELL",
-            "price": "\n$2.90\n",
-            "address": "807 N SHORELINE BLVD MOUNTAIN VIEW, CA 94043"
-        },
-        {
-            "name": "Village Chevron",
-            "price": "\n$2.90\n",
-            "address": "401 Main St Los Altos, CA 94022"
-        },
-        {
-            "name": "Chevron Stations",
-            "price": "\n$2.90\n",
-            "address": "2101 University Ave East Palo Alto, CA 94303"
-        },
-        {
-            "name": "CHEVRON",
-            "price": "\n$2.90\n",
-            "address": "808 N SHORELINE BLVD MOUNTAIN VIEW, CA 94043"
-        },
-        {
-            "name": "Embarcadero Shell",
-            "price": "\n$2.90\n",
-            "address": "1161 Embarcadero Rd Palo Alto, CA 94303"
-        },
-        {
-            "name": "CHEVRON",
-            "price": "\n$2.96\n",
-            "address": "1010 EL MONTE AVE MOUNTAIN VIEW, CA 94040"
-        },
-        {
-            "name": "JIM DAVISS BEACON",
-            "price": "\n$2.99\n",
-            "address": "3972 EL CAMINO REAL PALO ALTO, CA 94306"
-        },
-        {
-            "name": "CAMPUS VALERO SERVICE",
-            "price": "\n$3.00\n",
-            "address": "715 SERRA ST STANFORD, CA 94305"
-        },
-        {
-            "name": "CHOS VALERO",
-            "price": "\n$3.00\n",
-            "address": "1963 EL CAMINO REAL PALO ALTO, CA 94306"
-        },
-        {
-            "name": "CHEVRON",
-            "price": "\n$3.00\n",
-            "address": "3897 EL CAMINO REAL PALO ALTO, CA 94306"
+            "name": "SPEEDWAY #7835",
+            "price": "$2.30",
+            "address": "204 4TH AVE BROOKLYN, NY 11217"
         },
         {
             "name": "SHELL",
-            "price": "\n$3.16\n",
-            "address": "3601 EL CAMINO REAL PALO ALTO, CA 94306"
+            "price": "$2.30",
+            "address": "164 14TH ST JERSEY CITY, NJ 07310"
+        },
+        {
+            "name": "BP",
+            "price": "$2.34",
+            "address": "354 HAMILTON AVE BROOKLYN, NY 11231"
+        },
+        {
+            "name": "DOUGLAS AND 4TH SALES AND SERVICE",
+            "price": "$2.34",
+            "address": "164 4TH AVE BROOKLYN, NY 11217"
+        },
+        {
+            "name": "HAMILTON AVE STATION",
+            "price": "$2.44",
+            "address": "375 HAMILTON AVE BROOKLYN, NY 11231"
+        },
+        {
+            "name": "BP",
+            "price": "$2.44",
+            "address": "327 HAMILTON AVE BROOKLYN, NY 11231"
+        },
+        {
+            "name": "GULF",
+            "price": "$2.60",
+            "address": "260 HAMILTON AVE BROOKLYN, NY 11231"
+        },
+        {
+            "name": "GULF",
+            "price": "$2.60",
+            "address": "640 HICKS ST BROOKLYN, NY 11231"
+        },
+        {
+            "name": "SHELL",
+            "price": "$2.65",
+            "address": "98 3RD AVE BROOKLYN, NY 11217"
+        },
+        {
+            "name": "MOBIL",
+            "price": "$2.76",
+            "address": "63 8TH AVE NEW YORK, NY 10014"
+        },
+        {
+            "name": "CITGO",
+            "price": "$2.80",
+            "address": "169 3RD AVE BROOKLYN, NY 11217"
         }
     ]
 }
