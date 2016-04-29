@@ -1,6 +1,6 @@
 # gas-api
 
-Find cheap nearby gas stations
+##### Find cheap nearby gas stations
 ###### Maya Balakrishnan
 
 # Instruction for using the gas price api:
