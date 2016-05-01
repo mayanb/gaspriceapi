@@ -1,104 +1,144 @@
 {
     "stations": [
         {
-            "name": "SPEEDWAY #3482",
-            "price": "$2.04",
-            "address": "590 LUIS MUNOZ MARIN BLVD JERSEY CITY, NJ 07310"
+            "name": "Valero Service Station",
+            "price": "$2.66",
+            "address": "705 San Antonio Rd Palo Alto, CA 94303",
+            "number": "705",
+            "zip": "94303"
         },
         {
-            "name": "TUNNEL FIVE",
-            "price": "$2.10",
-            "address": "197 12TH ST JERSEY CITY, NJ 07310"
+            "name": "Valero",
+            "price": "$2.84",
+            "address": "334 San Antonio Rd Mountain View, CA 94040",
+            "number": "334",
+            "zip": "94040"
         },
         {
-            "name": "LEDGEWOOD PETRO",
-            "price": "$2.10",
-            "address": "183 12TH ST JERSEY CITY, NJ 07310"
+            "name": "UNION 76",
+            "price": "$2.86",
+            "address": "4350 EL CAMINO REAL LOS ALTOS, CA 94022",
+            "number": "4350",
+            "zip": "94022"
         },
         {
-            "name": "LUKOIL",
-            "price": "$2.12",
-            "address": "200 12TH ST JERSEY CITY, NJ 07310"
+            "name": "MENLO PARK GAS",
+            "price": "$2.86",
+            "address": "275 EL CAMINO REAL MENLO PARK, CA 94025",
+            "number": "275",
+            "zip": "94025"
         },
         {
-            "name": "BP",
-            "price": "$2.13",
-            "address": "235 12TH ST JERSEY CITY, NJ 07310"
+            "name": "WILLOW COVE",
+            "price": "$2.86",
+            "address": "500 WILLOW RD MENLO PARK, CA 94025",
+            "number": "500",
+            "zip": "94025"
         },
         {
-            "name": "VALERO",
-            "price": "$2.18",
-            "address": "193 14TH ST JERSEY CITY, NJ 07310"
-        },
-        {
-            "name": "SUNOCO",
-            "price": "$2.20",
-            "address": "14TH ST JERSEY CITY, NJ 07399"
-        },
-        {
-            "name": "HOLLAND TUNNEL SERVICE CENTER",
-            "price": "$2.30",
-            "address": "597 LUIS MUNOZ MARIN BLVD JERSEY CITY, NJ 07310"
-        },
-        {
-            "name": "HEWES SALE AND SERVICE",
-            "price": "$2.30",
-            "address": "677 KENT AVE BROOKLYN, NY 11249"
-        },
-        {
-            "name": "SPEEDWAY #7835",
-            "price": "$2.30",
-            "address": "204 4TH AVE BROOKLYN, NY 11217"
+            "name": "Chevron Stations",
+            "price": "$2.96",
+            "address": "2101 University Ave East Palo Alto, CA 94303",
+            "number": "2101",
+            "zip": "94303"
         },
         {
             "name": "SHELL",
-            "price": "$2.30",
-            "address": "164 14TH ST JERSEY CITY, NJ 07310"
+            "price": "$2.96",
+            "address": "2194 UNIVERSITY AVE PALO ALTO, CA 94303",
+            "number": "2194",
+            "zip": "94303"
         },
         {
-            "name": "BP",
-            "price": "$2.34",
-            "address": "354 HAMILTON AVE BROOKLYN, NY 11231"
+            "name": "EMBARCADERO RD SHELL",
+            "price": "$2.96",
+            "address": "1161 EMBARCADERO RD PALO ALTO, CA 94303",
+            "number": "1161",
+            "zip": "94303"
         },
         {
-            "name": "DOUGLAS AND 4TH SALES AND SERVICE",
-            "price": "$2.34",
-            "address": "164 4TH AVE BROOKLYN, NY 11217"
+            "name": "Kristin Gray",
+            "price": "$2.98",
+            "address": "1377 El Camino Real Menlo Park, CA 94025",
+            "number": "1377",
+            "zip": "94025"
         },
         {
-            "name": "HAMILTON AVE STATION",
-            "price": "$2.44",
-            "address": "375 HAMILTON AVE BROOKLYN, NY 11231"
+            "name": "UNION 76",
+            "price": "$2.99",
+            "address": "710 WILLOW RD MENLO PARK, CA 94025",
+            "number": "710",
+            "zip": "94025"
         },
         {
-            "name": "BP",
-            "price": "$2.44",
-            "address": "327 HAMILTON AVE BROOKLYN, NY 11231"
+            "name": "JIM DAVISS BEACON",
+            "price": "$2.99",
+            "address": "3972 EL CAMINO REAL PALO ALTO, CA 94306",
+            "number": "3972",
+            "zip": "94306"
         },
         {
-            "name": "GULF",
-            "price": "$2.60",
-            "address": "260 HAMILTON AVE BROOKLYN, NY 11231"
-        },
-        {
-            "name": "GULF",
-            "price": "$2.60",
-            "address": "640 HICKS ST BROOKLYN, NY 11231"
+            "name": "Valero",
+            "price": "$3.00",
+            "address": "1963 El Camino Real Palo Alto, CA 94306",
+            "number": "1963",
+            "zip": "94306"
         },
         {
             "name": "SHELL",
-            "price": "$2.65",
-            "address": "98 3RD AVE BROOKLYN, NY 11217"
+            "price": "$3.00",
+            "address": "495 EL CAMINO REAL MENLO PARK, CA 94025",
+            "number": "495",
+            "zip": "94025"
         },
         {
-            "name": "MOBIL",
-            "price": "$2.76",
-            "address": "63 8TH AVE NEW YORK, NY 10014"
+            "name": "Campus Valero Service",
+            "price": "$3.00",
+            "address": "715 Serra St Stanford, CA 94305",
+            "number": "715",
+            "zip": "94305"
         },
         {
-            "name": "CITGO",
-            "price": "$2.80",
-            "address": "169 3RD AVE BROOKLYN, NY 11217"
+            "name": "Menlo Park Chevron",
+            "price": "$3.10",
+            "address": "1200 El Camino Real Menlo Park, CA 94025",
+            "number": "1200",
+            "zip": "94025"
+        },
+        {
+            "name": "Chevron",
+            "price": "$3.10",
+            "address": "3897 El Camino Real Palo Alto, CA 94309",
+            "number": "3897",
+            "zip": "94309"
+        },
+        {
+            "name": "SHELL",
+            "price": "$3.16",
+            "address": "3601 EL CAMINO REAL PALO ALTO, CA 94306",
+            "number": "3601",
+            "zip": "94306"
+        },
+        {
+            "name": "SHELL",
+            "price": "$3.20",
+            "address": "201 LA CUESTA DR PORTOLA VALLEY, CA 94028",
+            "number": "201",
+            "zip": "94028"
+        },
+        {
+            "name": "SHARON HEIGHTS SHELL",
+            "price": "$3.40",
+            "address": "125 SHARON PARK DR MENLO PARK, CA 94025",
+            "number": "125",
+            "zip": "94025"
+        },
+        {
+            "name": "Chevron",
+            "price": "$3.56",
+            "address": "3600 Alameda de Las Pulgas Menlo Park, CA 94025",
+            "number": "3600",
+            "zip": "94025"
         }
     ]
 }

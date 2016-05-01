@@ -42,6 +42,7 @@ app.get('/stations/:zip', function(req, res){
               var prices = [];
               var station_names = [];
               var street_addresses = [];
+              var numbers = [];
               var cities = [];
               var states = [];
               var zip_codes = [];
@@ -58,8 +59,11 @@ app.get('/stations/:zip', function(req, res){
               })
               $('.street-address').each(function() {
                 var data = $(this);
+                str = data.text();
                 street_address = data.text();
                 street_addresses.push(street_address);
+                number = str.substr(0, str.indexOf(' '));
+                numbers.push(number);
               })
               $('.locality').each(function() {
                 var data = $(this);
@@ -83,7 +87,8 @@ app.get('/stations/:zip', function(req, res){
                 price = prices[i];
                 name = station_names[i];
                 address = street_addresses[i] + " " + cities[i] + states[i] + " " + zip_codes[i];
-                json.stations.push({"name": name, "price": price, "address": address});
+                building_number = numbers[i];
+                json.stations.push({"name": name, "price": price, "address": address, "number": building_number, "zip": zip_codes[i]});
               }
               console.log(json);
               fs.writeFile('output.json', JSON.stringify(json, null, 4), function(err){
